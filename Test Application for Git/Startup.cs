@@ -65,3 +65,4 @@ namespace Test_Application_for_Git
 // This comment was added right on the dev branch as a test.
 // This comment was added on dev with Vern
 // This comment was added on dev with Vern 2
+// This comment was added on dev with Vern 3
